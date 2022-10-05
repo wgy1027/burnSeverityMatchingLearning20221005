@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Fire Severity</name>
+	<Icon>
+		<href>CA3958812158520171009_burn_sev_0.png</href>
+	</Icon>
+	<LatLonBox>
+		<north>39.68730203413753</north>
+		<south>39.48809264750319</south>
+		<east>-121.4477688096343</east>
+		<west>-121.725028343196</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
